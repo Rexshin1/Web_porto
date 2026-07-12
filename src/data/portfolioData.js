@@ -40,7 +40,7 @@ export const portfolioData = {
   informationSummary: [
     {
       id: 1,
-      title: "Academic GPA (Cumlaude)",
+      title: "Academic GPA",
       description: "3.73",
     },
     {
@@ -63,7 +63,7 @@ export const portfolioData = {
     },
     {
       id: 2,
-      title: "Full-Stack Web Development (Laravel / React)",
+      title: "Full-Stack Web Development",
       description:
         "Membangun aplikasi enterprise berkinerja tinggi seperti Fleet Space (Manajemen Armada & Otomatisasi Booking Ruangan berfitur QR Code), dashboard pemantauan konsumsi daya real-time, dan sistem administrasi terpadu.",
     },
@@ -111,7 +111,7 @@ export const portfolioData = {
       id: 1,
       institution: "Universitas Nahdlatul Ulama Sunan Giri",
       degree: "S1 Sistem Komputer",
-      gpa: "IPK 3.73 (Cumlaude)",
+      gpa: "IPK 3.73",
       period: "Sep 2021 - Aug 2025",
       description:
         "Memberikan fondasi kuat dalam menganalisis dan mengintegrasikan sistem perangkat keras dan perangkat lunak, serta memecahkan masalah teknis dalam infrastruktur jaringan dan komputer.",

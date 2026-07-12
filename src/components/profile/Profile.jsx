@@ -71,7 +71,8 @@ const Profile = () => {
             </a>
             <a
               className="btn btn-lg px-7 border border-gray-300 hover:border-picto-primary bg-white duration-300 transition-all hover:text-picto-primary"
-              href="/MOH.KHOIRUN_NAFIS-resume.pdf"
+              href="/MOH.KHOIRUN NAFIS.pdf"
+              download="MOH.KHOIRUN NAFIS.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >

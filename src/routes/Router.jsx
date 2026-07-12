@@ -4,7 +4,14 @@ import Loading from "../components/common/loading/Loading";
 const Home = lazy(() => import("../pages/Home"));
 const Main = lazy(() => import("../layouts/Main"));
 
-const repoName = "";
+const getBasename = () => {
+  if (typeof window !== "undefined") {
+    if (window.location.pathname.startsWith("/picto")) {
+      return "/picto";
+    }
+  }
+  return "/";
+};
 
 export const router = createBrowserRouter(
   [
@@ -23,5 +30,5 @@ export const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: "/" }
+  { basename: getBasename() }
 );
