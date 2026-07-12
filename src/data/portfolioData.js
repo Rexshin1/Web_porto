@@ -205,8 +205,8 @@ export const portfolioData = {
       certGrade: "SANGAT BAIK",
       certIssuer: "KEMNAKER & PT JAVADWIPA DUTA MANDIRI",
       message:
-        "Dedikasi Nafis dalam merancang arsitektur Fleet Space dan integrasi IoT Look Gateway sangat luar biasa. Kemampuan analisanya membantu menyederhanakan proses yang kompleks.",
-      quote: `Kemampuan pemrograman Laravel yang digabungkan dengan pemahaman perangkat keras (IoT) membuat Nafis menjadi tech talent yang sangat langka dan berharga. Setiap delivery selesai tepat waktu dengan standar kualitas tinggi!`,
+        "Menunjukkan dedikasi luar biasa dalam mengembangkan aplikasi Fleet Space dan mengintegrasikan IoT Look Gateway dengan efisiensi tinggi.",
+      quote: `Memiliki keahlian yang sangat kuat dalam pengembangan aplikasi web Laravel dan integrasi sistem IoT. Selama masa pemagangan, ia menunjukkan inisiatif tinggi, disiplin, serta kemampuan penyelesaian masalah yang sistematis dan profesional.`,
       name: "Sulaeman, S.T",
       designation: "Direktur, PT Javadwipa Duta Mandiri",
     },
@@ -220,8 +220,8 @@ export const portfolioData = {
       certGrade: "VERIFIED PKL",
       certIssuer: "PT PERTAMINA EP SUKOWATI FIELD",
       message:
-        "Selama program magang IT Support di Sukowati Field, Nafis menunjukkan kecekatan tinggi dalam troubleshooting problem hardware/software bagi >50 karyawan kami.",
-      quote: `Tidak hanya jago di depan monitor, Nafis juga cepat tanggap saat terjun langsung dalam pemeliharaan jaringan fiber optik dan pemeriksaan server fisik. Sangat proaktif dan komunikatif.`,
+        "Sangat cekatan dalam memberikan dukungan teknologi informasi (IT Support) serta pemeliharaan infrastruktur jaringan operasional perusahaan.",
+      quote: `Terbukti sangat kompeten dalam menangani dukungan teknis operasional harian, pemeliharaan infrastruktur jaringan fiber optik, serta monitoring server fisik. Ia memiliki keterampilan komunikasi yang baik dan sikap kerja yang proaktif.`,
       name: "Arif Rahman Hakim",
       designation: "Manager Sukowati Field, PT PERTAMINA EP",
     },
